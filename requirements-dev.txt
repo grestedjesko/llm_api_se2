@@ -1,0 +1,9 @@
+-r requirements.txt
+
+pytest-asyncio
+httpx
+flake8
+black
+mypy
+
+
